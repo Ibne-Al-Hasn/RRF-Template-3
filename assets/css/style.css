@@ -39,7 +39,7 @@
 }
 
 .bg-hamar{
-    background: url(/assets/images/image5.png);
+    background: url(./assets/images/image5.png);
     background-position: center;
     background-size: cover;
     object-fit: contain;
@@ -50,7 +50,7 @@
 
 
 .black-bg{
-    background: url(/assets/images/image7.png);
+    background: url(./assets/images/image7.png);
     background-position: center;
     background-size: cover;
     object-fit: contain;
@@ -82,7 +82,7 @@
 }
 
 .about-bg{
-    background: url(/assets/images/image3.png);
+    background: url(./assets/images/image3.png);
     background-position: center;
     background-size: cover;
     object-fit: contain;
@@ -93,7 +93,7 @@
 }
 
 .about-bg-2{
-    background: url(/assets/images/about-overlay.png);
+    background: url(./assets/images/about-overlay.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
