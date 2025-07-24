@@ -29,7 +29,7 @@
 }
 
 .wel-bg{
-    background: url(/assets/images/image3.png);
+    background: url(./assets/images/image3.png);
     background-position: center;
     background-size: cover;
     object-fit: contain;
